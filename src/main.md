@@ -106,7 +106,7 @@ with open('./www/default.html', 'r') as fr:
 IFrame(src='./www/full.html', width=810, height=500)
 ```
 
-### [声母 & (`y`,`w`)热度图(./www/initials.html)
+### [声母 & (`y`,`w`)热度图](./www/initials.html)
 
 ```python
 IFrame(src='./www/initials.html', width=810, height=500)
