@@ -36,7 +36,7 @@
 ## 热度图
 
 - [全拼热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/full.html)
-- [声母 & (`y`,`w`)热度图](/src/www/initials.html)
+- [声母 & (`y`,`w`)热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/initials.html)
 - [韵母 & 介母热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/finals.html)
 
 ## 按键频率分布直方图
