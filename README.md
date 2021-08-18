@@ -35,9 +35,9 @@
 
 ## 热度图
 
-- [全拼热度图](./src/www/full.html)
+- [全拼热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/full.html)
 - [声母 & (`y`,`w`)热度图](/src/www/initials.html)
-- [韵母 & 介母热度图](./src/www/finals.html)
+- [韵母 & 介母热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/finals.html)
 
 ## 按键频率分布直方图
 ![频率分布直方图](./src/images/频率分布直方图.png)
@@ -168,15 +168,15 @@ $$
 
 ### 全拼改进方案
 
-- [改进方案热度图](./src/www/ifull.html)
+- [改进方案热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/ifull.html)
 
 ### 小鹤双拼方案
 
-- [改进方案热度图](./src/www/xiaohe.html)
+- [改进方案热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/xiaohe.html)
 
 ### 小鹤双拼改进方案
 
-- [改进方案热度图](./src/www/ixiaohe.html)
+- [改进方案热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/ixiaohe.html)
 
 
 ## 测试结果分析

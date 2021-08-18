@@ -100,19 +100,19 @@ with open('./www/default.html', 'r') as fr:
         fw.write(default_page)
 ```
 
-### [全拼热度图](./www/full.html)
+### [全拼热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/full.html)
 
 ```python tags=[]
 IFrame(src='./www/full.html', width=810, height=500)
 ```
 
-### [声母 & (`y`,`w`)热度图](./www/initials.html)
+### [声母 & (`y`,`w`)热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/initials.html)
 
 ```python
 IFrame(src='./www/initials.html', width=810, height=500)
 ```
 
-### [韵母 & 介母热度图](./www/finals.html)
+### [韵母 & 介母热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/finals.html)
 
 ```python
 IFrame(src='./www/finals.html', width=810, height=500)
@@ -574,7 +574,7 @@ with open('./www/default.html', 'r') as fr:
         fw.write(default_page)
 ```
 
-#### [改进方案热度图](./www/ifull.html)
+#### [改进方案热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/ifull.html)
 
 ```python tags=[]
 IFrame(src='./www/ifull.html', width=810, height=500)
@@ -710,7 +710,7 @@ with open('./www/default.html', 'r') as fr:
 xiaohe_list = list("".join(xiaohe))
 ```
 
-#### [改进方案热度图](./www/xiaohe.html)
+#### [改进方案热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/xiaohe.html)
 
 ```python tags=[]
 IFrame(src='./www/xiaohe.html', width=810, height=500)
@@ -801,7 +801,7 @@ with open('./www/default.html', 'r') as fr:
 ixiaohe_list = list("".join(ixiaohe))
 ```
 
-#### [改进方案热度图](./www/ixiaohe.html)
+#### [改进方案热度图](https://zuoqiu-yingyi.github.io/efficient-pinyin-keys/src/www/ixiaohe.html)
 
 
 ```python tags=[]
